@@ -1,1 +1,2 @@
-# demo1
+# shopping
+Book management project

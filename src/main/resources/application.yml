@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: local
+  output:
+    ansi:
+      enabled: always
+
+server:
+  port: 8080
+
+jwt:
+  secret-key: I-like-xxx-123456
+  expiration-in-second: 86400 # 1 day
